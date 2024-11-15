@@ -1,5 +1,3 @@
----
-
 # AI Poem Crafter ✨📝
 
 **AI Poem Crafter** is a creative web app that generates beautiful poems using the **AwanLLM API**! 🎤🎶 Whether you're in the mood for a happy, sad, or nostalgic poem, this app allows you to customize the mood, length, and even theme to create a unique piece of art. 🌟

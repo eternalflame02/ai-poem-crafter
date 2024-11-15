@@ -21,16 +21,16 @@
    - Optionally, enter a **theme** or keywords.
    
 2. **Generate Your Poem**: 📝 
-   - Click the **"Generate Poem"** button, and wait as the AI crafts your masterpiece! ✨
+   - Click the **"Generate Poem"** button and wait as the AI crafts your masterpiece! ✨
    
 3. **Poem History**: 🏛️
    - View all the poems you've created, with the option to expand them for full reading.
    
 4. **Download or Copy**: 🔽
-   - **Download** poems as `.txt` files, or **copy** them directly to your clipboard for easy sharing.
+   - **Download** poems as `.txt` files or **copy** them directly to your clipboard for easy sharing.
 
 5. **Clear History**: 🧹
-   - Use the **Clear Poem History** button to reset all your poem data.
+   - Use the **"Clear Poem History"** button to reset all your poem data.
 
 ---
 
@@ -89,5 +89,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-Thanks for checking out **AI Poem Crafter**
+Thanks for checking out **AI Poem Crafter**! 🌟
+
 ---
